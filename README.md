@@ -23,12 +23,9 @@ Projemiz temel olarak kaybolan eşyalarımızı arayabileceğimiz, bulmuş oldu�
 
 •	Admin hesabı uygulamayla ilgili istatistiksel bilgilere ulaşabiliyor.
 
-####Proje anasayfa arayüzü
+#### Proje anasayfa arayüzü
 ![image](https://github.com/Yareeen/Kaybettim/assets/74200191/a0b45150-07c4-46eb-8edb-b85f11aba009)
 
-####Mesajlaşma arayüzü
+#### Mesajlaşma arayüzü
 ![image](https://github.com/Yareeen/Kaybettim/assets/74200191/fcabe22c-9b84-41fa-9c35-3e4833d35801)
-
-
-
 
